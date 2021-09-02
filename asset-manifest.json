@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/EvansVan/Chucking/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/EvansVan/Chucking/static/js/main.6c3fe8f6.chunk.js",
+    "main.js.map": "/EvansVan/Chucking/static/js/main.6c3fe8f6.chunk.js.map",
+    "runtime-main.js": "/EvansVan/Chucking/static/js/runtime-main.8e5cca3b.js",
+    "runtime-main.js.map": "/EvansVan/Chucking/static/js/runtime-main.8e5cca3b.js.map",
+    "static/css/2.983f79de.chunk.css": "/EvansVan/Chucking/static/css/2.983f79de.chunk.css",
+    "static/js/2.da49d8ab.chunk.js": "/EvansVan/Chucking/static/js/2.da49d8ab.chunk.js",
+    "static/js/2.da49d8ab.chunk.js.map": "/EvansVan/Chucking/static/js/2.da49d8ab.chunk.js.map",
+    "static/js/3.f036f7de.chunk.js": "/EvansVan/Chucking/static/js/3.f036f7de.chunk.js",
+    "static/js/3.f036f7de.chunk.js.map": "/EvansVan/Chucking/static/js/3.f036f7de.chunk.js.map",
+    "index.html": "/EvansVan/Chucking/index.html",
+    "static/css/2.983f79de.chunk.css.map": "/EvansVan/Chucking/static/css/2.983f79de.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/EvansVan/Chucking/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.da49d8ab.chunk.js.LICENSE.txt": "/EvansVan/Chucking/static/js/2.da49d8ab.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8e5cca3b.js",
+    "static/css/2.983f79de.chunk.css",
+    "static/js/2.da49d8ab.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.6c3fe8f6.chunk.js"
+  ]
+}
