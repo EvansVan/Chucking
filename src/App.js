@@ -3,14 +3,25 @@ import 'bootstrap/dist/css/bootstrap.css';
   
   class App extends Component {
     state = {
-      categories:['animal', 'career', 'celebrity', 'dev', 'explicit', 'history', 'food', 'political', 'fashion', 'religion', 'music', 'money', 'movie', 'travel', 'science', 'sport'],
-      
+      categories:['animal',
+                 'career',
+                 'celebrity',
+                  'dev',
+                  'explicit', 
+                   'history', 
+                   'food', 
+                   'political',
+                    'fashion', 
+                    'religion', 
+                    'music', 
+                    'money', 
+                    'movie', 
+                    'travel', 
+                    'science', 
+                    'sport']
   };
-  
-
     render() {
       return (
-
         <> 
         {this.jaza()}         
         </>
@@ -33,14 +44,10 @@ import 'bootstrap/dist/css/bootstrap.css';
       fetch('https://api.chucknorris.io/jokes/random?category=' + category)
           .then(res => res.json())
           .then((data) => {
-              this(alert(data.value))
+            this(alert(data.value))
           })
           .catch(console.log)
     }
-    } 
+  } 
   
 export default App;
-
-
-
-  
