@@ -32,9 +32,9 @@ import 'bootstrap/dist/css/bootstrap.css';
     let sasa = this.state.categories.length;
     for (let i=0; i<sasa;i++){
         jokes.push(  
-        <div class= "col-3">
+        <container fluid>
           <button id={this.state.categories[i]} class="btn btn-primary btn-block" type="button" onClick={this.getChucked.bind(this)}>{this.state.categories[i]}</button>
-        </div>
+        </container>
       )}
       return jokes
     }
