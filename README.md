@@ -1,4 +1,9 @@
-<<<<<<< HEAD
+# Chucking
+React app using the Chuck Norris api (https://api.chucknorris.io/) to render jokes on a webpage.
+
+# General Info
+This project was inspired by my love for absurd jokes. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
